@@ -14,4 +14,6 @@
 - Breaking Bad is a great show to watch
 - Programming can be quite difficult to learn but it can be very engaging
 - I prefer cold weather over hot weather
- 
+- I am from New York
+- I drive a Honda CRV
+- I went to Stony Brook University
